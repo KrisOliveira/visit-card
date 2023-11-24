@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Aguiar;Emidio;;;
+FN: Emidio Aguiar
+ORG:Mardisa Veículos S/A;
+TITLE:Gerente de Pós Vendas
+EMAIL;type=INTERNET;type=WORK;type=pref:emidio.aguiar@mardisa.com.br
+TEL;type=WORK;type=VOICE:+55 98 984272887
+item1.ADR;type=WORK;type=pref:;; Mardisa Caminhões São Luís
+item1.X-ABADR:sg
+END:VCARD
